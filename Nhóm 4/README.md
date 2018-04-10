@@ -1,4 +1,3 @@
-# VuXuanQuan
-MSV 16021412
+Nhóm 4
 
 [Link](https://gitpitch.com/xuanquan98/VuXuanQuan)
